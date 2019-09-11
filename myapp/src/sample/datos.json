@@ -1,0 +1,98 @@
+[
+        {
+            "tweet_id": 1,
+            "sentiment": "neutral",
+            "airline_sentiment_confidence": 1,
+            "negativereason": "",
+            "negativereason_confidence": "",
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "cairdin",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica What @dhepburn said."
+        },
+        {
+            "tweet_id": 2,
+            "sentiment": "positive",
+            "airline_sentiment_confidence": 0.3486,
+            "negativereason": "",
+            "negativereason_confidence": 0,
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "jnardino",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica plus you've added commercials to the experience... tacky."
+        },
+        {
+            "tweet_id": 3,
+            "sentiment": "neutral",
+            "airline_sentiment_confidence": 0.6837,
+            "negativereason": "",
+            "negativereason_confidence": "",
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "yvonnalynn",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica I didn't today... Must mean I need to take another trip!"
+        },
+        {
+            "tweet_id": 4,
+            "sentiment": "negative",
+            "airline_sentiment_confidence": 1,
+            "negativereason": "Bad Flight",
+            "negativereason_confidence": 0.7033,
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "jnardino",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica it's really aggressive to blast obnoxious \"entertainment\" in your guests' faces &amp; they have little recourse"
+        },
+        {
+            "tweet_id": 5,
+            "sentiment": "negative",
+            "airline_sentiment_confidence": 1,
+            "negativereason": "Can't Tell",
+            "negativereason_confidence": 1,
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "jnardino",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica and it's a really big bad thing about it"
+        },
+        {
+            "tweet_id": 6,
+            "sentiment": "negative",
+            "airline_sentiment_confidence": 1,
+            "negativereason": "Can't Tell",
+            "negativereason_confidence": 0.6842,
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "jnardino",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica seriously would pay $30 a flight for seats that didn't have this playing.\nit's really the only bad thing about flying VA"
+        },
+        {
+            "tweet_id": 7,
+            "sentiment": "positive",
+            "airline_sentiment_confidence": 0.6745,
+            "negativereason": "",
+            "negativereason_confidence": 0,
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "cjmcginnis",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica yes, nearly every time I fly VX this “ear worm” won’t go away :)"
+        },
+        {
+            "tweet_id": 8,
+            "sentiment": "neutral",
+            "airline_sentiment_confidence": 0.634,
+            "negativereason": "",
+            "negativereason_confidence": "",
+            "airline": "Virgin America",
+            "airline_sentiment_gold": "",
+            "name": "pilot",
+            "negativereason_gold": "",
+            "text": "@VirginAmerica Really missed a prime opportunity for Men Without Hats parody, there. https://t.co/mWpG7grEZP"
+        }
+]
